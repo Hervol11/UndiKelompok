@@ -32,6 +32,11 @@ body {
   padding: 10px 0;
 }
 
+a {
+  list-style-type: none;
+  text-decoration: none;
+}
+
 .j1 {
   margin-right: 5px;
   color: #ffffff;
